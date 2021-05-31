@@ -10,3 +10,4 @@ If a chip's inputs match the diagram and the outputs match the diagram then the 
 If a chip's inputs match the diagram and the outputs are wrong, then the chip is almost certainly bad.
 If a chip's inputs do not match the diagram, then the problem is caused by a connecting circuit.
 
+Appologies for the rough and ready nature of the diagram. I needed something in a hurry.
