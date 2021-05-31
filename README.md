@@ -1,6 +1,6 @@
 # Commodore 64 Chip Troubleshooter Diagram
 
-A diagram of the major and minor chips in the commodore 64 showing pin state after the machine is first powered on. Intended as an aid to repair and restoration.
+A diagram of the major and minor chips in the Commodore 64 showing pin state after the machine is first powered on. Intended as an aid to repair and restoration.
 
 Each of the chips is shown with their pins showing a HIGH, LOW, or PULSE tag depending on what state it should be in after
 initally powering on the machine. Using a scope, or logic probe you can go through the chips and test the pins without having
