@@ -8,7 +8,8 @@ to remove the chip from the motherboard.
 
 ## How To Use It
 
-First, disconnect and peripherals and remove any cartridges from the expansion port. Then power on the machine.
+First, disconnect any peripherals and remove any cartridges from the expansion port. Then power on the machine.
+And grab the probes to your scope, or logic probe. 
 
 The general approach to fault diagnosis is as follows:
 
