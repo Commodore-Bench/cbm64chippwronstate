@@ -11,4 +11,5 @@ If a chip's inputs match the diagram and the outputs are wrong, then the chip is
 If a chip's inputs do not match the diagram, then the problem is caused by a connecting circuit.
 
 Appologies for the rough and ready nature of the diagram. I needed something in a hurry. This is very much a work in progress. I'll
-get around to diagramming the missing chips when I have some time.
+get around to clean up and diagramming the missing chips when I have some time. At the moment, the DRAM chips are not documented and
+neither are the CIA chips, other than having pinouts.
